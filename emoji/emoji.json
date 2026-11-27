@@ -1,0 +1,47 @@
+{
+  "version": 1,
+  "emoji": [
+    {
+      "id": "facebookemoji",
+      "name": "Facebook",
+      "file": "FacebookEmoji.ttf",
+      "size": 39425672,
+      "sha256": "b1be92fc4ae3485337ad1cb2073010e3cbee1c8e6fe8a315728429bbd5c88db8"
+    },
+    {
+      "id": "lunarisiosemoji",
+      "name": "iOS",
+      "file": "LunarisIosEmoji.ttf",
+      "size": 35321980,
+      "sha256": "f06ab19cd58f6c42ee7e367205e54dd7931c1344b641b977a415a279cf11319f"
+    },
+    {
+      "id": "samsungcoloremoji",
+      "name": "Samsung",
+      "file": "SamsungColorEmoji.ttf",
+      "size": 19404336,
+      "sha256": "7ba59f7494b314155b684df75469bb64c20e3e52d9addc09d1a0904e5b6b7e74"
+    },
+    {
+      "id": "swiftuiemoji",
+      "name": "SwiftUI",
+      "file": "SwiftUIEmoji.ttf",
+      "size": 25243132,
+      "sha256": "afeae2411705772be83ed17ff71bf5de7cd11b5e44e0cfde0d8268a4ca648aac"
+    },
+    {
+      "id": "twemoji",
+      "name": "Twemoji",
+      "file": "Twemoji.ttf",
+      "size": 3857500,
+      "sha256": "795b1c0fb2b89e9341826aa36fdee6510edcdee2ad6226e0d386130ab0ea2910"
+    },
+    {
+      "id": "fluent",
+      "name": "Microsoft Fluent UI",
+      "file": "fluent.ttf",
+      "size": 24684212,
+      "sha256": "b4042d1d1a7d3ddf75e549cf957e053f3493371fb9298047acb8fb418b14e2d3"
+    }
+  ]
+}
